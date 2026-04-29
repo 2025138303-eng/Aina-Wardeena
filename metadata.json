@@ -1,0 +1,6 @@
+{
+  "name": "Charles & Keith | Signature Heels",
+  "description": "Premium e-commerce experience for Charles & Keith heels featuring AI size scanning, interchangeable heel customization, and a personalized AI shopping assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
